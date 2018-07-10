@@ -1,0 +1,8 @@
+C:\Users\madina\Desktop\TestSoap\new\Producer\Producer\bin\wsdl\test.wsdl
+C:\Users\madina\Desktop\TestSoap\new\Producer\Producer\bin\Producer.dll.config
+C:\Users\madina\Desktop\TestSoap\new\Producer\Producer\bin\Producer.dll
+C:\Users\madina\Desktop\TestSoap\new\Producer\Producer\bin\Producer.pdb
+C:\Users\madina\Desktop\TestSoap\new\Producer\Producer\bin\WcfExtensions.dll
+C:\Users\madina\Desktop\TestSoap\new\Producer\Producer\obj\Release\Producer.csprojResolveAssemblyReference.cache
+C:\Users\madina\Desktop\TestSoap\new\Producer\Producer\obj\Release\Producer.dll
+C:\Users\madina\Desktop\TestSoap\new\Producer\Producer\obj\Release\Producer.pdb

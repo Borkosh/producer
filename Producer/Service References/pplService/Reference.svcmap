@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="0c38a24c-80c0-4c31-8162-92ccf1faae7f" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>true</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="C:\Users\madina\Desktop\TestSoap\new\Producer\Producer\wsdl\test.wsdl" Protocol="file" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="xml.xsd" MetadataType="Schema" ID="e6ebe84e-ebfa-4e59-bddc-e5e7f7ceb82d" SourceId="1" SourceUrl="http://www.w3.org/2009/01/xml.xsd" />
+    <MetadataFile FileName="xroad.xsd" MetadataType="Schema" ID="1506f651-27c6-47ef-a5c1-ee995cb227a4" SourceId="1" SourceUrl="http://x-road.eu/xsd/xroad.xsd" />
+    <MetadataFile FileName="person_register.wsdl" MetadataType="Wsdl" ID="a85bca9d-12c4-45b9-bf20-b54c881f44f4" SourceId="1" SourceUrl="file:///C:/Users/madina/Desktop/TestSoap/new/Producer/Producer/wsdl/test.wsdl" />
+    <MetadataFile FileName="identifiers.xsd" MetadataType="Schema" ID="06f49374-9583-4a66-830f-55a4f9d779d6" SourceId="1" SourceUrl="http://x-road.eu/xsd/identifiers.xsd" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
