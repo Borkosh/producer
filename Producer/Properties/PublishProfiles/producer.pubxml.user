@@ -10,22 +10,22 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/Producer.dll">
-      <publishTime>07/10/2018 14:59:58</publishTime>
+      <publishTime>07/11/2018 23:50:46</publishTime>
     </File>
     <File Include="bin/WcfExtensions.dll">
       <publishTime>07/10/2018 11:15:23</publishTime>
     </File>
     <File Include="bin/wsdl/test.wsdl">
-      <publishTime>07/10/2018 11:31:56</publishTime>
+      <publishTime>07/09/2018 13:43:16</publishTime>
     </File>
     <File Include="PeopleRegister.svc">
       <publishTime>07/10/2018 11:35:18</publishTime>
     </File>
     <File Include="Service References/pplService/Producer.pplService.personListResponse.datasource">
-      <publishTime>07/10/2018 14:59:51</publishTime>
+      <publishTime>07/11/2018 10:18:03</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>07/10/2018 14:59:58</publishTime>
+      <publishTime>07/11/2018 11:09:36</publishTime>
     </File>
   </ItemGroup>
 </Project>

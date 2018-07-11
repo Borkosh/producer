@@ -158,7 +158,7 @@
 	<wsdl:service name="person_register">
 		<wsdl:port binding="tns:person_registerSOAP" name="person_registerSOAP">
 			<soap:address
-				location="http://192.168.20.14:83/producer/person_register/services/person_registerSOAP" />
+				location="http://localhost:8080/person_register/services/person_registerSOAP" />
 		</wsdl:port>
 	</wsdl:service>
 </wsdl:definitions>
